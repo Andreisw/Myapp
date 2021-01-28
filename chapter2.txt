@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is the oldest thing I can do
 
 
 sacasfasfasfsa
+=======
+I'm rich
+>>>>>>> alien-status

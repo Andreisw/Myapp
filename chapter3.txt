@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 What a fuck ??? dsafgradjhtesgreagae
+=======
+What a fuck ???
+
+I learned Git hub omg theasbd
+>>>>>>> alien-status
